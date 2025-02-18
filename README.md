@@ -1,6 +1,5 @@
 # MERN Full Stack Assignment
 
-## Author
 **Jayesh Dubey**  
 **Roll No:** 22BSA10058
 
